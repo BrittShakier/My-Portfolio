@@ -7,6 +7,7 @@ This repository is a portfolio about myself. It includes a picture of me. It con
 N/A
 
 ## Usage
-![My portfolio screenshot](https://github.com/BrittShakier/My-Portfolio/assets/159391747/92b965e5-d326-45b2-8624-9f195fe40953)
+<img width="932" alt="My portfolio screenshot" src="https://github.com/BrittShakier/My-Portfolio/assets/159391747/af6ef348-13de-4225-8509-b49a7c4a1708">
+
 
 Link: 
