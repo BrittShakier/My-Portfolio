@@ -10,4 +10,5 @@ N/A
 <img width="932" alt="My portfolio screenshot" src="https://github.com/BrittShakier/My-Portfolio/assets/159391747/af6ef348-13de-4225-8509-b49a7c4a1708">
 
 
-Link: 
+Link: https://brittshakier.github.io/My-Portfolio/ 
+
